@@ -1,0 +1,27 @@
+This code was tested on both python3 and python2 versions
+However it should be run in version3 of python
+
+Steps(python VERSION 2):
+1. do $ python on your terminal
+>> if you see Python 2.7.... Mines is Python 2.7.17 (v2.7.17:c2f86d86e6, Oct 19 2019, 21:01:17) [MSC v.1500 64 bit (AMD64)]
+then proceed as follows:
+ a) execute $ python minimize_a.py
+ b) Enter number of queries::2 (any you chose)     (the quotes are due to backward compatibility issues)
+ b) enter space separated values eg 4 2::"4 2"
+ c) enter space separated values eg 4 2::"3 4"
+
+ ########################################################################################################################################################
+
+ Steps(python VERSION 3):
+1. do $ python on your terminal OR $ python3
+>> if you see Python 3..... Mines is Python 3.6.8 (tags/v3.6.8:3c6b436a57, Dec 24 2018, 00:16:47) [MSC v.1916 64 bit (AMD64)]
+then proceed as follows:
+ a) execute $ python minimize_a.py OR python3 minimize_a.py depending on what worked!
+ b) enter number of queries::2 (any you chose)     (the quotes are due to backward compatibility issues)
+ b) enter space separated values eg 4 2::4 2
+ c) enter space separated values eg 4 2::3 4
+
+##################################################
+Running tests:
+# This shuould work in any version of python
+$ python test_minimize_class.py 

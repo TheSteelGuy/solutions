@@ -1,0 +1,7 @@
+// For all questions apart from question 3(q3 is written in python)
+-Open the file in your IDE -> Ensure Main.java is selected if not select it. 
+-Click run button.
+
+#####################################################################################
+To run the test, select the name of the test class to replace main.java
+click run

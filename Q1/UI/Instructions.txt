@@ -1,0 +1,8 @@
+Dependencies:
+node and npm(installing node comes with npm)
+developed on version node v12.13.0
+Inside Frontend Directory Launch a terminal
+# then run
+$ npm start
+
+Test... on the browser

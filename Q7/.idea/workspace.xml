@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4954a36-ec33-44ac-bf70-13e958deabe4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/Instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/src/assets/image.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/src/components/login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/src/components/signup.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/UI/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1/sbapi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/Money.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/lib/junit-jupiter-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/lib/junit-jupiter-api-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/lib/junit-jupiter-engine-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/lib/junit-jupiter-params-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/lib/junit-platform-commons-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/lib/junit-platform-engine-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/lib/opentest4j-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/out/production/Money/com/company/Bag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/out/production/Money/com/company/Coin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/out/production/Money/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/out/production/Money/com/company/MoneyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/out/production/Money/com/company/Note.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/out/test/Money/com/company/CoinTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/out/test/Money/com/company/NoteTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/src/com/company/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/src/com/company/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/src/com/company/MoneyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/src/com/company/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/test/com/company/CoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q2/test/com/company/NoteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q3/.idea/Q3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q3/Instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q3/minimize_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q3/test_minimize_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/Employee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/lib/junit-jupiter-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/lib/junit-jupiter-api-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/lib/junit-jupiter-engine-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/lib/junit-jupiter-params-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/lib/junit-platform-commons-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/lib/junit-platform-engine-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/lib/opentest4j-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/out/production/Employee/main/java/com/company/IsEmployeeAgeSimilar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/out/production/Employee/main/java/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/out/test/Employee/main/IsEmployeeAgeSimilarTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/src/main/java/com/company/IsEmployeeAgeSimilar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/src/main/java/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q4/test/main/IsEmployeeAgeSimilarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/Amount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/lib/junit-jupiter-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/lib/junit-jupiter-api-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/lib/junit-jupiter-engine-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/lib/junit-jupiter-params-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/lib/junit-platform-commons-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/lib/junit-platform-engine-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/lib/opentest4j-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/out/production/Amount/com/company/DistributeMoney.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/out/production/Amount/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/out/test/Amount/main/DistributeMoneyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/src/com/company/DistributeMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q5/test/main/DistributeMoneyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/InterviewerGrading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/lib/junit-jupiter-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/lib/junit-jupiter-api-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/lib/junit-jupiter-engine-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/lib/junit-jupiter-params-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/lib/junit-platform-commons-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/lib/junit-platform-engine-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/lib/opentest4j-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/out/production/InterviewerGrading/main/java/com/company/Grade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/out/production/InterviewerGrading/main/java/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/out/test/InterviewerGrading/main/GradeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/src/main/java/com/company/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/src/main/java/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q6/test/main/GradeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maskingCards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maskingCards/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/maskingCards/com/company/MaskCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/maskingCards/main/MaskCardTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MaskCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/main/MaskCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/AllValidationChecksPassedButtonActivated.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/ChecksPassedForRegistration.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/ErrorSignupWithSimilarEmail.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/ExampleTestCaseQuestion2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/ExampleTestCaseRunQuestion7.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/FailedLogin.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/FailedRegisterDuetoEmailInuse.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/InvalidEmailValidationFrontend.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/ShortPasswordValidationBeforeSubmission.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/SuccessRegister.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/SuccessfullRegistrationUI.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/passwordMitmatchValidation.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../screenshots/suceessLogin.PNG" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1VcdwAka1AgeURthe9a9E1uyWds" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Q1/sbapi" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\javaCode\maskingCards\test\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MaskCardTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="maskingCards" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaskCardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maskingCards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.MaskCardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PCITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maskingCards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.PCITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PCITest.testMaskCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maskingCards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.PCITest" />
+      <option name="METHOD_NAME" value="testMaskCard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.PCITest" />
+      <item itemvalue="JUnit.PCITest.testMaskCard" />
+      <item itemvalue="JUnit.MaskCardTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MaskCardTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PCITest" />
+        <item itemvalue="JUnit.PCITest.testMaskCard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4954a36-ec33-44ac-bf70-13e958deabe4" name="Default Changelist" comment="" />
+      <created>1577556552308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577556552308</updated>
+      <workItem from="1577556560255" duration="4372000" />
+      <workItem from="1577604210162" duration="939000" />
+      <workItem from="1577613605840" duration="65000" />
+      <workItem from="1578417625569" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
