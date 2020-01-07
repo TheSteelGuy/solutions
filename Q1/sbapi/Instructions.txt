@@ -10,10 +10,23 @@ Example register request
 	"password" : "123456"
 	
 }
+Example success registration:
+{
+    "success": true,
+    "message": "You have sucessfully registered"
+}
 
-example login request;
+
+Example login request;
 
 {
 	"email" : "collins@gmail.com",
 	"password" : "123456"
+}
+Example login success:
+{
+    "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxIiwiaWF0IjoxNTc4NDIyODE0LCJleHAiOjE1Nzg1MDkyMTR9.dsd1ODuhprkBK5Fs6oDlQMhOcm_KOpDTX9K_0obtM900-9qAQ7eeQT0EoHkGOmfdE_6pYJhv7AtPaEpMLgTfHg",
+    "tokenType": "Bearer",
+    "success": true,
+    "message": "Login successful"
 }
