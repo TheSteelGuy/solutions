@@ -2,11 +2,18 @@
 // The project was run on intelliJ by executing Main.java
 // To run test, Select the test class and click run
 
-Example request
+Example register request
 {
 	"fullName" : "Collins",
 	"username":"cool",
 	"email" : "collins@gmail.com",
 	"password" : "123456"
 	
+}
+
+example login request;
+
+{
+	"email" : "collins@gmail.com",
+	"password" : "123456"
 }
