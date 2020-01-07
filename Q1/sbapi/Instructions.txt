@@ -1,7 +1,7 @@
 // test location sbapi\src\test\java\com\sbapi
 // The project was run on intelliJ by executing Main.java
 // To run test, Select the test class and click run
-## Developed in Java 8 JAVA 8
+## Developed in JAVA 8
 ## Platform WINDOWS 10
 
 Example register request
