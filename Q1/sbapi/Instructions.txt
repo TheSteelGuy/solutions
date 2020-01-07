@@ -1,3 +1,12 @@
 // test location sbapi\src\test\java\com\sbapi
 // The project was run on intelliJ by executing Main.java
 // To run test, Select the test class and click run
+
+Example request
+{
+	"fullName" : "Collins",
+	"username":"cool",
+	"email" : "collins@gmail.com",
+	"password" : "123456"
+	
+}
